@@ -1,0 +1,12 @@
+django
+djangorestframework
+mysqlclient
+pandas
+python-dotenv
+requests
+pydantic
+django-cors-headers
+djangorestframework-simplejwt
+sentry-sdk
+
+
